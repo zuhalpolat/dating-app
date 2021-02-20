@@ -62,3 +62,6 @@ C:\Users\zuhal\Desktop\dating-app\API\bin\Debug\net5.0\System.IdentityModel.Toke
 C:\Users\zuhal\Desktop\dating-app\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\zuhal\Desktop\dating-app\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\zuhal\Desktop\dating-app\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zuhal\Desktop\dating-app\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\Users\zuhal\Desktop\dating-app\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\zuhal\Desktop\dating-app\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
